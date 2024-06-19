@@ -19,15 +19,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-##### ⚡ Respuesta rápida
-<a href="https://www.instagram.com/abderra.sw/" alt="Instagram">
-  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F">
-</a>
-
-<a href="https://discordapp.com/users/588336985152815110" alt="Discord">
-  <img alt="Static Badge" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2">
-</a>
-
 ### ✨ Habilidades destacables
 
 </br>
