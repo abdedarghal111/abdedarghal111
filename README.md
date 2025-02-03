@@ -2,7 +2,7 @@
 
 ### ℹ Sobre mí  
 
-- 💻 Generando código desde hace 4 años
+- 💻 Generando código desde hace 5 años
 - 🔭 Constantemente aprendiendo
 - 🏠 Viviendo en España (Alicante) 🇪🇸
 - 🖥 Actualmente estudiando para ser full-stack web developer
