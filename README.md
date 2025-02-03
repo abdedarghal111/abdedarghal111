@@ -1,6 +1,6 @@
 ## Abderrahim Darghal Belkacemi
 
-### ℹ Sobre mí  
+### ℹ️ Sobre mí  
 
 - 💻 Generando código desde hace 5 años
 - 🔭 Constantemente aprendiendo
