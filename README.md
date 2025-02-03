@@ -13,9 +13,9 @@
 
 
 <a href="mailto:abdedarghal111@gmail.com" alt="Gmail">
-  <img alt="gmail" src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=maildotru&color=%23EA4335">
-</a>
-<a href="https://www.linkedin.com/in/abdedarghal/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=maildotru&color=%23EA4335">
+</a><br>
+<a href="https://www.linkedin.com/in/abdedarghal" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -25,11 +25,11 @@
 
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![TYPSCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![LARAVEL](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![LUA](https://img.shields.io/badge/lua-00?style=for-the-badge&logo=lua&color=%232C2D72)
 
