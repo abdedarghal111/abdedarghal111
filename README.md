@@ -2,12 +2,12 @@
 
 ### ℹ️ Sobre mí  
 
-- 💻 Generando código desde hace 5 años
+- 💻 Picando código desde 2019
 - 🔭 Constantemente aprendiendo
 - 🏠 Viviendo en España (Alicante) 🇪🇸
-- 🖥 Actualmente estudiando para ser full-stack web developer
+- 🖥 Full-stack web developer y futuro ingeniero informático
 - 🎓Mi meta es poder crear cualquier software que me proponga
-- 💗 In löve with lua
+- 💗 Low level lover.
 
 ### 🌐 Contacto
 
